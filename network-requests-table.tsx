@@ -195,7 +195,7 @@ const pageInfos: PageInfo[] = [
     comments: "/quote-form/confirmation-page",
     potentialSolution:
       "Same as the previous steps, the SQ - RedPoint API is taking nearly 8 seconds to resolve. This clearly indicates a need for improvement.",
-    screenshotUrl: "https://dsh.re/6fe75",
+    screenshotUrl: "https://dsh.re/43f0d",
   },
   // Add more page info as needed...
 ];
